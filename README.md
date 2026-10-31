@@ -5,11 +5,10 @@
 ![Protocol](https://img.shields.io/badge/Protocol-EIGRP%20Named%20Mode-green)
 ![Level](https://img.shields.io/badge/Level-CCNP%20ENARSI-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Validate](https://github.com/OWNER/REPO/actions/workflows/validate.yml/badge.svg)
+![Validate](https://github.com/HICHAMSEBAA/EIGRP-Named-Mode-Design-Lab/actions/workflows/validate.yml/badge.svg)
 
 This repository contains the full architecture, Cisco IOS-XE configurations, protocol behavioral analysis, and verification tasks for an **8-router EIGRP Named Mode design** (AS 100, instance `ENT`) built inside a single **10.0.0.0/16** address block, with a mesh-and-ring topology, two core hubs, two transit rings and two stub sites.
 
-> Replace `OWNER/REPO` in the validate badge above with your GitHub path after publishing.
 
 ---
 
